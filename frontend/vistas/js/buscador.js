@@ -24,7 +24,7 @@ $("#buscador input").change(function(){
 
 	}else{
 
-		var evaluarBusqueda = busqueda.replace(/[áéíóúÁÉÍÓÚ ]/g, "_");
+		var evaluarBusqueda = busqueda.replace(/[áéíóúÁÉÍÓÚ ]/g, "-");
 
 		var rutaBuscador = $("#buscador a").attr("href");
 
