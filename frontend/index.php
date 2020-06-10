@@ -14,7 +14,6 @@ require_once "modelos/carrito.modelo.php";
 
 require_once "modelos/rutas.php";
 
-require_once "extensiones/PHPMailer/PHPMailerAutoload.php";
 require_once "extensiones/vendor/autoload.php";
 
 $plantilla = new ControladorPlantilla();
