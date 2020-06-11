@@ -11,7 +11,7 @@ $(".btnIngreso, .facebook, .google").click(function(){
 })
 
 /*=============================================
-FORMATEAR LOS IPUNT
+FORMATEAR LOS INPUT
 =============================================*/
 
 $("input").focus(function(){

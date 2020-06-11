@@ -25,9 +25,6 @@ if(isset($_SESSION["validarSesion"])){
 API DE GOOGLE
 =============================================*/
 
-// https://console.developers.google.com/apis
-// https://github.com/google/google-api-php-client
-
 /*=============================================
 CREAR EL OBJETO DE LA API GOOGLE
 =============================================*/

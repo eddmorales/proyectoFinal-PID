@@ -4,7 +4,7 @@ BANNER
 
 <figure class="banner">
 
-	<img src="http://localhost/backend/vistas/img/banner/default.jpg" class="img-responsive" width="100%">	
+	<img src="http://localhost/ecommerceFinal/backend/vistas/img/banner/default.jpg" class="img-responsive" width="100%">	
 
 	<div class="textoBanner textoDer">
 		
@@ -68,21 +68,13 @@ VITRINA DE PRODUCTOS GRATIS
 		
 		<div class="row">
 			
-			<!--=====================================
-			BARRA TÍTULO
-			======================================-->
-
 			<div class="col-xs-12 tituloDestacado">
-				
-				<!--===============================================-->
 
 				<div class="col-sm-6 col-xs-12">
 					
 					<h1><small>ARTÍCULOS GRATUITOS </small></h1>
 
 				</div>
-
-				<!--===============================================-->
 
 				<div class="col-sm-6 col-xs-12">
 					
@@ -97,8 +89,6 @@ VITRINA DE PRODUCTOS GRATIS
 					</a>
 
 				</div>
-
-				<!--===============================================-->
 
 			</div>
 
@@ -117,20 +107,16 @@ VITRINA DE PRODUCTOS GRATIS
 			<!-- Producto 1 -->
 
 			<li class="col-md-3 col-sm-6 col-xs-12">
-				
-				<!--===============================================-->
 	
 				<figure>
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="http://localhost/backend/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive">
+						<img src="http://localhost/ecommerceFinal/backend/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive">
 
 					</a>
 
 				</figure>
-
-				<!--===============================================-->
 
 				<h4>
 					
@@ -328,7 +314,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="http://localhost/backend/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive">
+						<img src="http://localhost/ecommerceFinal/backend/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive">
 
 					</a>
 
@@ -406,7 +392,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<figure>
 					
-						<a href="#" class="pixelProducto"><img src="http://localhost/backend/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive"></a>
+						<a href="#" class="pixelProducto"><img src="http://localhost/ecommerceFinal/backend/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive"></a>
 
 					</figure>
 
@@ -607,7 +593,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<figure>
 					
-						<a href="#" class="pixelProducto"><img src="http://localhost/backend/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive"></a>
+						<a href="#" class="pixelProducto"><img src="http://localhost/ecommerceFinal/backend/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive"></a>
 
 					</figure>
 
